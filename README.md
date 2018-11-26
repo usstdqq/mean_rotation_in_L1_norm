@@ -1,4 +1,4 @@
-# mean_rotation_in_L1_norm
+# Mean Rotation in L1 Norm
 
 
 This package solves the problem of 'mean rotation'. Given a set of rotation matrices as input, mean rotation is then computed as output.
